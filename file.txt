@@ -1,1 +1,2 @@
 commit 1 in file
+commit 2 in file
